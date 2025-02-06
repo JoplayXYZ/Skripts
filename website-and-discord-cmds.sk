@@ -1,0 +1,35 @@
+command /discord:
+  permission: skript.discord
+  description: join the discord
+  executable by: players
+  # Info:
+  # Replace the ---- YOUR LINK ---- with your website link (use https://---- YOUR LINK ----/ else it wont be clickable)
+  #
+  # By JoplayXYZ
+  # Discord: joplay.xyz/dc
+  # Website: joplay.xyz
+  #
+  #
+  trigger:
+    send "<#5865F2>&l|"
+    send "<#5865F2>&l|  <#5865F2>★ <#d0d3d4>ᴊᴏɪɴ ᴛʜᴇ <#5865F2>&lᴅɪsᴄᴏʀᴅ - <link:---- YOUR LINK ----><#d0d3d4>ᴄʟɪᴄᴋ ᴛᴏ ᴊᴏɪɴ"
+    send "<#5865F2>&l|"
+    send action bar "<#5865F2>&l⏵ <#d0d3d4>ᴄʟɪᴄᴋ ᴛʜᴇ ʟɪɴᴋ ɪɴ ᴄʜᴀᴛ ᴛᴏ ᴊᴏɪɴ<#5865F2>&l ⏴"
+
+command /website:
+  permission: skript.website
+  description: website...
+  executable by: players
+  # Info:
+  # Replace the ---- YOUR INVITE ---- with your discord invite (use https://discord.gg/---- YOUR INVITE ---- else it wont be clickable)
+  #
+  # By JoplayXYZ
+  # Discord: joplay.xyz/dc
+  # Website: joplay.xyz
+  #
+  #
+  trigger:
+    send "<#f0cd86>&l|"
+    send "<#f0cd86>&l|  <#f0cd86>★ <#d0d3d4>ᴠɪѕɪᴛ ᴏᴜʀ <#f0cd86>&lᴡᴇʙѕɪᴛᴇ - <link:---- YOUR INVITE ----><#d0d3d4>ᴠɪѕɪᴛ"
+    send "<#f0cd86>&l|"
+    send action bar "<#f0cd86>&l⏵ <#d0d3d4>ᴄʟɪᴄᴋ ᴛʜᴇ ʟɪɴᴋ ɪɴ ᴄʜᴀᴛ ᴛᴏ ᴠɪѕɪᴛ ᴏᴜʀ ᴡᴇʙѕɪᴛᴇ<#f0cd86>&l ⏴"
