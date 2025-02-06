@@ -1,0 +1,9 @@
+on first join:
+  broadcast "<#86f0a7>&l|"
+  broadcast "<#86f0a7>&l|  <#86f0a7>★ <#52D87B>ᴡᴇʟʟᴄᴏᴍᴇ <#86f0a7>&l%player% <#52D87B>ᴛᴏ -- ѕᴇʀᴠᴇʀ ɴᴀᴍᴇ --!"
+  broadcast "<#86f0a7>&l|"
+
+on join:
+  broadcast "<#86f0a7>&l|"
+  broadcast "<#86f0a7>&l|  <#86f0a7>★ <#52D87B>ᴡᴇʟʟᴄᴏᴍᴇ ʙᴀᴄᴋ <#86f0a7>&l%player% <#52D87B>ᴛᴏ -- ѕᴇʀᴠᴇʀ ɴᴀᴍᴇ --!"
+  broadcast "<#86f0a7>&l|"
