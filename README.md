@@ -1,2 +1,4 @@
 # Skripts
-![website](https://img.shields.io/badge/my_website-joplay.xyz-brightgreen?style=plastic&link=https%3A%2F%2Fjoplay.xyz)
+
+![Join my Discord](https://discord.gg/MyqR2Wc6sd)
+![Discord](https://img.shields.io/discord/1312447525252497538?style=for-the-badge&label=discord.gg%2FMyqR2Wc6sd)
