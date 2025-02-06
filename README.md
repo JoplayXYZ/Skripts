@@ -1,4 +1,4 @@
-# Skripts >_
+# Skripts
 These are all my public skripts :D
 
 
