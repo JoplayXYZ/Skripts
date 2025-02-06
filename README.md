@@ -1,4 +1,6 @@
 # Skripts
+These are all my public skripts :D
+
 
 [Join my Discord](https://discord.gg/MyqR2Wc6sd)
 
