@@ -5,3 +5,7 @@ These are all my public skripts :D
 [Website](https://joplay.xyz/)
 
 # Skripts
+
+[Join-messages.sk](https://github.com/JoplayXYZ/Skripts/blob/main/join-messages.sk)
+
+[website-and-discord-cmds.sk](https://github.com/JoplayXYZ/Skripts/blob/main/website-and-discord-cmds.sk)
